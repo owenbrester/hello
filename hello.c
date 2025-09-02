@@ -8,6 +8,8 @@
 
     printf("Hello, I'm Owen Brester!\n");
     printf("I am majoring in Computer Science!\n");
-
+    printf("Hello, I'm Adam Juma\n");
+    printf("I am majoring in Computer Science\n");
+    
     return 0;
  }
